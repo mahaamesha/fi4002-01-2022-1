@@ -1,10 +1,16 @@
-# 1021XABC
-NamaLengkap
+# 10219084
+Avima Haamesha
 
 
 ## materi sebelumnya
 + Tuliskan materi-materi sebelumnya yang telah diberikan dalam kuliah ini.
-
++ Runge-Kutta
++ Predator-Prey
++ Euler
++ Lorentz
++ Osilasi Teredam
++ Transform fourier
++ Monte carlo
 
 ## materi paling menarik
 + Tuliskan materi yang paling menarik yang telah diberikan dan jelaskan mengapa menarik.
